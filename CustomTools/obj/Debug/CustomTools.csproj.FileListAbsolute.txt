@@ -1,0 +1,4 @@
+D:\Users\Documents\Visual Studio 2012\Projects\CustomTools\CustomTools\bin\Debug\CustomTools.dll
+D:\Users\Documents\Visual Studio 2012\Projects\CustomTools\CustomTools\bin\Debug\CustomTools.pdb
+D:\Users\Documents\Visual Studio 2012\Projects\CustomTools\CustomTools\obj\Debug\CustomTools.dll
+D:\Users\Documents\Visual Studio 2012\Projects\CustomTools\CustomTools\obj\Debug\CustomTools.pdb
